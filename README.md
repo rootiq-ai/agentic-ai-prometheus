@@ -1,4 +1,4 @@
-# Prometheus Agent AI 🤖
+# Agentic AI Prometheus 🤖
 
 An AI-powered monitoring and analysis agent for Prometheus that combines advanced metrics analysis with natural language interactions using OpenAI.
 
